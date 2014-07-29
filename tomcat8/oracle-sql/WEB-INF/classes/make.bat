@@ -1,0 +1,1 @@
+javac -cp .;%CATALINA_HOME%\lib\servlet-api.jar;%CATALINA_HOME%\lib\ojdbc6.jar;%CATALINA_HOME%\lib\javax.json-1.0.jar %1
